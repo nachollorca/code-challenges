@@ -83,3 +83,5 @@ urllib3==1.26.3
 wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.5.1
+scikit-learn==1.0.2
+tensorflow==2.11.0
